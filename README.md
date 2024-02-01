@@ -1,6 +1,6 @@
 MSFS 2020 Virtual flightlog
 ====
-Этот код использует библиотеки [Python-SimConnect](https://pypi.org/project/SimConnect/) для отслеживания положения самолета в MSFS2020 и визуализации пройденного пути на веб-странице с помощью Flask и JavaScript:
+Этот код использует библиотеки [Python-SimConnect](https://pypi.org/project/SimConnect/) для отслеживания положения самолета в MSFS2020 и визуализации пройденного пути на веб-странице с помощью Flask и JavaScript.
 ----
 Предполагается, что уже установлены библиотеки Flask и python-SimConnect, а также что есть файл шаблона HTML с именем "index.html" для отображения веб-страницы. <br>
 
